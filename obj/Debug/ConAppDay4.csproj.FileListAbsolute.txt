@@ -1,0 +1,8 @@
+D:\ConAppDay4\ConAppDay4\bin\Debug\ConAppDay4.exe.config
+D:\ConAppDay4\ConAppDay4\bin\Debug\ConAppDay4.exe
+D:\ConAppDay4\ConAppDay4\bin\Debug\ConAppDay4.pdb
+D:\ConAppDay4\ConAppDay4\obj\Debug\ConAppDay4.csproj.AssemblyReference.cache
+D:\ConAppDay4\ConAppDay4\obj\Debug\ConAppDay4.csproj.SuggestedBindingRedirects.cache
+D:\ConAppDay4\ConAppDay4\obj\Debug\ConAppDay4.csproj.CoreCompileInputs.cache
+D:\ConAppDay4\ConAppDay4\obj\Debug\ConAppDay4.exe
+D:\ConAppDay4\ConAppDay4\obj\Debug\ConAppDay4.pdb
